@@ -1,1 +1,1 @@
-https://DariaKruze.github.io/rsschool-cv/cv
+[About me](https://DariaKruze.github.io/rsschool-cv/cv)
